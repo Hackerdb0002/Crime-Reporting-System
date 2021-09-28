@@ -1,1 +1,5 @@
 # Crime-Reporting-System
+
+it require XAMPP TO RUN THIS PROJECT
+
+AND IMPORT DATABASE FILE TO MYSQL...
